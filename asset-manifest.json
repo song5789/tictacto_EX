@@ -2,12 +2,9 @@
   "files": {
     "main.css": "/tictacto_EX/static/css/main.22941023.css",
     "main.js": "/tictacto_EX/static/js/main.80030bac.js",
-    "index.html": "/tictacto_EX/index.html",
+    "index.html": "/tictacto_EX/",
     "main.22941023.css.map": "/tictacto_EX/static/css/main.22941023.css.map",
     "main.80030bac.js.map": "/tictacto_EX/static/js/main.80030bac.js.map"
   },
-  "entrypoints": [
-    "static/css/main.22941023.css",
-    "static/js/main.80030bac.js"
-  ]
+  "entrypoints": ["static/css/main.22941023.css", "static/js/main.80030bac.js"]
 }
